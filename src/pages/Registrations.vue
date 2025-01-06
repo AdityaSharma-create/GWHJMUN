@@ -35,7 +35,7 @@ const display = "active" //pending, active, elapsed
                 <div><h2>Note:</h2></div>
                 <div>1. Due to a character limit in the email entry field, simply enter as many characters as will fit. Our registrations department will make the necessary changes. </div>
                 <div>2. If your section is not present in the dropdown, add it in as a clarification in the MUN experience part of the form. </div>
-                <div>3. Confirmation mails are currently not being sent - rest assured that if the PayTM screen is displayed, the payment has gone through. If you have not received your allocation past February 7th, feel free to reach out.</div>
+                <div>3. Confirmation mails are currently not being sent - rest assured that if the PayTM screen is displayed, the payment has gone through. If you have not received your allocation past January 16th, feel free to reach out.</div>
             </div>
         </div>
         <div v-if="display=='elapsed'" class="pending">
