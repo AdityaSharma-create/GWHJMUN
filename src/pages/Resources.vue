@@ -12,10 +12,12 @@ useHead({
         <h1>Delegate Resouces</h1>
         <div class="bg">
             <div class="bg-link bg-matrix">
-                <a href="https://docs.google.com/spreadsheets/d/1n-utOOH1Qc8MOjoZpv0b9179K-Juq2IrfAQIN3b9mJ0/edit?usp=sharing">
-                    <h1>Country Matrix</h1>
+                <a href="#">
+                    <h1>Country Matrix</h1>      
                 </a>
+                <p class="coming-soon">Coming Soon</p>
             </div>
+
             <div class="bg-link bg-code"> 
                 <a href="/resources/code_of_conduct.pdf">
                     <h1>Code of Conduct</h1>
@@ -23,6 +25,8 @@ useHead({
             </div>
         </div>
         <h1>Background Guides</h1>
+        <center><h2>Coming Soon</h2></center>
+        <!--
         <div class="bg">
             <div class="bg-link" v-for="item in comms.list" :class="`bg-${item.id}`">
                 <a :href="`/resources/${item.id}_bg.pdf`" v-if="item.na==false">
@@ -33,11 +37,24 @@ useHead({
                     <h1>{{ item.id.toUpperCase() }} (TBD)</h1>
                 </div>
             </div>
-        </div>
+        </div>-->
     </main>
 </template>
 
 <style scoped>
+.bg-link {
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    align-items: center; /* Center align text and items */
+    text-align: center; /* Align text inside */
+}
+
+.coming-soon {
+    margin-top: 8px; /* Add spacing between the title and the text */
+    font-size: 1rem;
+    color: gray;
+}
+
 main {
     padding: 10px;
 }

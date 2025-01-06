@@ -1,5 +1,5 @@
 <script setup>
-const display = "elapsed" //pending, active, elapsed
+const display = "active" //pending, active, elapsed
 </script>
 
 <template>
@@ -11,11 +11,26 @@ const display = "elapsed" //pending, active, elapsed
             </div>
         </div>
         <div v-if="display=='active'" class="active-btn"> 
-            <a href="https://paytm.me/W-pT3GA" target="_blank" class="reglink">
-                <h2>Registrations</h2>
-                Registrations will close once requisite numbers are reached, so register quickly!
-                <svg xmlns="http://www.w3.org/2000/svg" height="45" viewBox="0 -960 960 960" width="45"><path class="right-arrow" d="M647-440H160v-80h487L423-744l57-56 320 320-320 320-57-56 224-224Z"/></svg>
-            </a>
+            <h1>Registrations</h1>
+            <p>Registrations will close once requisite numbers are reached, so register quickly!</p>
+            <div class="registration-links">
+                <a href="https://paytm.me/PYTMPS/aOsoFPP" target="_blank" class="reglink">
+                    <h3>GWHJMUN-IB</h3>
+                    <p>Rs. 1200/- per student</p>
+                </a>
+                <a href="https://paytm.me/PYTMPS/PtTmFPP" target="_blank" class="reglink">
+                    <h3>GWHJMUN-ICSE</h3>
+                    <p>Rs. 1200/- per student</p>
+                </a>
+                <a href="https://paytm.me/PYTMPS/FMDBFPP" target="_blank" class="reglink">
+                    <h3>GWHJMUN-BGT</h3>
+                    <p>Rs. 1200/- per student</p>
+                </a>
+                <a href="https://paytm.me/PYTMPS/eKbyFPP" target="_blank" class="reglink">
+                    <h3>GWHJMUN-External Registration</h3>
+                    <p>Rs. 1200/- per student</p>
+                </a>
+            </div>
             <div class="reg-note">
                 <div><h2>Note:</h2></div>
                 <div>1. Due to a character limit in the email entry field, simply enter as many characters as will fit. Our registrations department will make the necessary changes. </div>
@@ -36,55 +51,57 @@ main {
     padding: 10px;
 }
 
-div.pending {
+.registration-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.reglink {
+    border: 2px solid #3b3b3b;
+    border-radius: 15px;
+    padding: 20px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.1em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background: #282828;
+    width: 250px;
+}
+
+.reglink > h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.reglink > p {
+    font-size: 1.2em;
+    color: #aaa;
+}
+
+.pending {
     text-align: center;
     padding: 250px 0;
     font-size: 1.25em;
 }
 
-div.pending > h1 {
+.pending > h1 {
     font-size: 2.5em
-}
-
-a.reglink {
-    border: 2px solid #3b3b3b;
-    border-radius: 25px;
-    padding: 60px;
-    text-decoration: none;
-    color: #fff;
-    font-size: 1.25em;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-}
-
-a.reglink > svg {
-    height: 40px;
-    padding: 10px;
-}
-
-path.right-arrow {
-    fill: #fff;
 }
 
 .active-btn {
     padding: 100px 0;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-a > h2 {
-    font-size: 2.25em;
-    font-weight: bold;
-    margin: 10px
+    text-align: center;
 }
 
 .reg-note {
     text-align: center;
-    padding: 10px 10%;
+    padding: 20px 10%;
 }
 
 .reg-note > div {

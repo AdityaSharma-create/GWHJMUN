@@ -21,14 +21,16 @@
     <main>
         <div class="mainimg">
             <img src="/assets/gwhmun_logo.png" class="commlogo">
-            <h1 class="title">GWH JMUN 2024</h1>
+            <h1 class="title">GWH JMUN 2025</h1>
             <h2 class="subtitle">For grades 6-8 only</h2>
-            <h2 class="subtitle">13th & 14th February</h2>
+            <h2 class="subtitle">16th & 17th </h2>
         </div>
         <h1 class="msg-title">Flow of Events</h1>
         <div class="flow">
             <div class="day">
                 <h1>Day 1</h1>
+                <p>To be out soon!</p>
+                <!--
                 <p>Reporting time to school: 7:45 AM</p>
                 <p>Registrations: 8:00 - 9:00 AM</p>
                 <p>Opening Ceremony: 9:00 - 10:00 AM</p>
@@ -37,9 +39,12 @@
                 <p>Lunch: 12:20 - 12:55 PM</p>
                 <p>Committee Session 2: 12:55 PM - 2:00 PM</p>
                 <p>Disperal: 2:05 PM</p>
+                -->
             </div>
             <div class="day">
                 <h1>Day 2</h1>
+                <p>To be out soon!</p>
+                <!--
                 <p>Reporting time to school (at the respective committee rooms): 7:45 AM</p>
                 <p>Committee Session 3: 8:00 - 10:00 AM</p>
                 <p>Juice Break: 10:00 - 10:15 AM</p>
@@ -47,9 +52,12 @@
                 <p>Lunch: 12:20 - 12:55 PM</p>
                 <p>Closing Ceremony: 1:00 - 2:00 PM</p>
                 <p>Dispersal: 2:05 PM</p>
+                -->
             </div>
         </div>
         <h1 class="msg-title">Letter from the Secretary General</h1>
+        <center><h2>To be out soon!</h2></center>
+        <!--
         <div class="msg">
             <div class="info">
                 <img src="/assets/eb_pics/UNSC/Harihar Prasad.png">
@@ -67,6 +75,7 @@
             </div>
             <div class="desc">{{`“I would rather have questions that can’t be answered rather than answers that can’t be questioned.” - Richard Feynmann.\n\nHumanity’s progress came through curiosity. If an early human didn’t stumble out of their cave to investigate the blinding, orange plume that lit up a tree in front of them, humanity would have never harnessed fire. If we never thought to make things more efficient, we never would have invented the wheel or the carriage. Humanity’s ability to inquire, think, and act accordingly has brought it from apehood to the world’s de facto apex predator.\n\nAs humans, there is no ceiling too high to reach, and no limit to how quickly we can do it.\n\nAs young thinkers and our world’s future, you must steer humanity back onto the right path, and seeing as we will soon get our hands on the reins, this generation and those to come must be prepared.\n\nGeopolitics in this era of tomorrow’s history seem like a storm; thundering, crashing, frightening. It may seem like a fool’s errand to fight the weather, but geopolitical disasters are not forces of nature and are most certainly not impossible to steer away. Everything you see in the news is a consequence of a decision made by a human. \n\nOur job as humans is to ensure that our comrades’ actions result in headlines of jubilation, rather than dread, and there is no better way to understand that than to get down in the mud with the crises and the cover-ups, to see what makes the world tick. There are no heroes in this story, nor are there villains. There are people, their visions, and their will to take action.\n\nWelcome to Greenwood High’s Junior Model United Nations 2024. \n\nIn the coming days, you will have to navigate the high seas of diplomacy, tiptoe down the creaky stairs of international law, and be a little shady. Research, investigate, and fight tooth and nail. You are not the spectators, but the protagonists. Seize the moment, and make it yours.\n\nBe the change you want to see by making the changes you want to see. The only thing that you need to change the world is a desire to do so, and the will to make it happen.\n\nSincerely,\nAarush Vyas\nDirector General`}}</div>   
         </div>
+        -->
     </main>
     <div class="embla" ref="emblaNode">
       <div class="embla__container">

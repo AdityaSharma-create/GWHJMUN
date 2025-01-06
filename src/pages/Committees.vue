@@ -134,4 +134,16 @@ path.right-arrow {
 .bg-ipc {
     background: url('/assets/bg_imgs/ipc-img.png');
 }
+.bg-aippm {
+    background: url('/assets/bg_imgs/aippm-img.png');
+}
+.bg-hiaea {
+    background: url('/assets/bg_imgs/h-iaea-img.png');
+}
+.bg-ppc {
+    background: url('/assets/bg_imgs/ppc-img.png');
+}
+.bg-unodc {
+    background: url('/assets/bg_imgs/undoc-img.png');
+}
 </style>
