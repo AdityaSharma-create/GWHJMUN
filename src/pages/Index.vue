@@ -23,7 +23,7 @@
             <img src="/assets/gwhmun_logo.png" class="commlogo">
             <h1 class="title">GWH JMUN 2025</h1>
             <h2 class="subtitle">For grades 6-8 only</h2>
-            <h2 class="subtitle">16th & 17th </h2>
+            <h2 class="subtitle">16th & 17th January</h2>
         </div>
         <h1 class="msg-title">Flow of Events</h1>
         <div class="flow">
