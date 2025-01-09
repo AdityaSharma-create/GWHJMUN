@@ -47,11 +47,12 @@
           "desc": "“We’re eyeball to eyeball, and I think the other fellow just blinked” - Dean Rusk. \n\nA charismatic and enthusiastic individual, Muskaan Malik is a storm of legalities covered with friendly smiles. She has placed in prestigious conferences such CANMUN, DNMUN and DEMUN. Although she is normally the shortest in the room, crossing her in committee is a... let's say interesting experience. Known for her willingness to strike up an argument with anyone and a tendency to roll her eyes at delegates(she promises she's nice). \n\nPresenting to you the Vice Chair for the Human Rights Council",
           "imgpath": "/assets/eb_pics/UNHRC/Muskaan Malik.png"
         },
-        "moderator": {
+        "vicechair2": {
           "name": "Aditi Kureel",
           "desc": "“Those who tell the stories rule society.” - Plato. \n\nWith a fascination with all things ambivalent, it was a given Aditi would get into MUNs. Beginning in 9th grade, her MUN journey would help her find a voice, like-minded company, and a newfound passion for the humanities. Be it attempting to assassinate Amit Shah or speaking out against nuclear proliferation, Aditi's time on the circuit has not only made for good stories but also shaped her respect for nuance, cooperation, and debate. So, now she hopes she can inspire others to find a voice and passion for debate and the humanities as she once had and have another story to talk about.",
           "imgpath": "/assets/eb_pics/UNHRC/Aditi Kureel.png"
         },
+        "moderator": null,
         "na": false
       },
       {
@@ -85,11 +86,12 @@
           "desc": "“All war is a symptom of man’s failure as a thinking animal” - John Steinbeck. \n\nWith her vibrant personality and confident attitude Avika is making a name for herself in the MUN community. She has gained vast experience through attending prestigious conferences including OAKMUN, DEMUN and DMUN. Through her dynamic disposition she is sure to make an impression on every committee she walks into. Beware that her standards for committee are as high as the black heels she wears. Committee is certainly going to be interesting. Presenting the vice chair of the disarmament committee, Avika Malik.",
           "imgpath": "/assets/eb_pics/DISEC/Avika Malik.png"
         },
-        "moderator": {
+        "vicechair2": {
           "name": "Siddhanth Singh",
           "desc": "With 6 MUNs under his belt, Siddhant brings a lot of experience and dedication to the table. His sheer courage allows him to deliver speeches that silence the biggest of delegates. Outside MUNs, you can see him shooting hoops, entertaining himself with video games, and hitting the gym.",
           "imgpath": "/assets/eb_pics/DISEC/Siddhant.png"
         },
+        "moderator": null,
         "na": false
     },
     {
@@ -106,11 +108,12 @@
         "desc": "Nihar Sreeram is a fervent Model United Nations delegate. Having done over 8 conferences, including CANMUN, BJCMUN, CISMUN and HMUN, he has excelled in both crisis and general assembly committees. Nihar began his journey in 9th as a zealous student delegate, focusing on scientific and economic solutions over purely legal answers. His dedication led him to participate in conferences around the globe, learning everything he could about the modern world and the issues that plague it. Outside of MUNs, you can find him researching some obscure phenomena or playing the newest Minecraft update.",
         "imgpath": "/assets/eb_pics/H-IAEA/Nihar Sreeram.jpg"
       },
-      "moderator": {
+      "vicechair2": {
         "name": "Navaneeth Srinath",
         "desc": "“I’m a star, how could I not shine?” - Kanye West. \n\nNavaneeth is a passionate MUNer, accomplishing feats such as 2 Best Delegates, and a near perfect record in the span of 8 MUNs. Although Mainly a Crisis Del, He has ample experience and accolades on General Assemblies. What pushed him the most to pursue more MUNs is the ability to ‘change the world’ and have the power to harness solutions. Aside from MUNs, Navaneeth boasts other interests in Public Speaking, Debating, Writing, Drama and Photography.",
         "imgpath": "/assets/eb_pics/H-IAEA/Navaneeth.png"
       },
+      "moderator": null,
       "na": false
     },
     {
@@ -127,11 +130,12 @@
           "desc": "“I think I'm cool. That's all that matters.” - Tyler, The Creator. \n\nShashrik is a passionate and lively MUNner, who has been munning for over 2 year and has been to exactly 10 MUNs, such as DMUN, DNMUN, GWHMUN and DeMUN, he has also placed in more than half of his MUNs. Ironically Shashrik began his MUN career at GWHJMUN in the same committee he is chairing this year, UNEP. Other than MUNs, He enjoys playing and following sports such as badminton and basketball. He is an avid coder that has placed in GWH synthacks and TISBhacks, and he also loves music. An overall fan of innovative solutions, debates and chaos.",
           "imgpath": "/assets/eb_pics/UNEP/Shashrik Ranjith.png"
         },
-        "moderator": {
+        "vicechair2": {
           "name": "Anaahira Bansod",
           "desc": "“All the world’s a stage” - Shakespeare. \n\nAnaahira is a powerhouse of passion and creativity. A spirited MUN enthusiast, she’s rocked the stage in three theatre productions, pens her experiences in poetry, and has a flair for art and design.",
           "imgpath": "/assets/eb_pics/UNEP/Anaahira.png"
         },
+        "moderator": null,
         "na": false
       },
       {
