@@ -55,7 +55,7 @@ watch(
         </div>
         <div class="footer-info">
             <h3 class="subhead"> Contact</h3>
-            <div>Secretary General - <a href="mailto:amisha051273@greenwoodhigh.edu.in">Amisha Sharma</a></div>
+            <div>Secretary General - <a href="mailto:amisha.sharma.27102008@gmail.com">Amisha Sharma</a></div>
             <div>Director General - <a href="mailto:varun070052@greenwoodhigh.edu.in">Varun Iyer</a></div>
         </div>
     </footer>
