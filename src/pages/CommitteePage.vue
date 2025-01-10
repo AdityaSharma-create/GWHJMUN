@@ -39,10 +39,11 @@ useHead({
             <img :src="`/assets/committee_logos/${props.id}.png`" class="commlogo">
             <h1 class="commname">{{ props.name }}</h1>
             <div class="agenda">Agenda: {{ props.agenda }}</div>
-           <!-- Replace this with the below line when bg guids come out: 
-            <a class="bg-btn" :href="`/resources/${props.id}_bg.pdf`" v-if="na==false" target="_blank"></a>--> <a class="bg-btn"  v-if="na==false" target="_blank">
-                Background Guide (Coming soon)
-                <svg xmlns="http://www.w3.org/2000/svg" height="45" viewBox="0 -960 960 960" width="45"><path class="right-arrow" d="M647-440H160v-80h487L423-744l57-56 320 320-320 320-57-56 224-224Z"/></svg>
+            <a class="bg-btn" :href="`/resources/${props.id}_bg.pdf`" v-if="na == false" target="_blank">
+                Background Guide
+                <svg xmlns="http://www.w3.org/2000/svg" height="45" viewBox="0 -960 960 960" width="45">
+                    <path class="right-arrow" d="M647-440H160v-80h487L423-744l57-56 320 320-320 320-57-56 224-224Z"/>
+                </svg>
             </a>
             <div v-else class="bg-btn-invalid">
                 Background Guide

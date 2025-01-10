@@ -26,7 +26,7 @@ useHead({
         </div>
         <h1>Background Guides</h1>
         <center><h2>Coming Soon</h2></center>
-        <!--
+        
         <div class="bg">
             <div class="bg-link" v-for="item in comms.list" :class="`bg-${item.id}`">
                 <a :href="`/resources/${item.id}_bg.pdf`" v-if="item.na==false">
@@ -37,7 +37,7 @@ useHead({
                     <h1>{{ item.id.toUpperCase() }} (TBD)</h1>
                 </div>
             </div>
-        </div>-->
+        </div>
     </main>
 </template>
 
