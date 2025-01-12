@@ -25,6 +25,7 @@
             <h2 class="subtitle">For grades 6-8 only</h2>
             <h2 class="subtitle">16th & 17th January</h2>
         </div>
+        
         <h1 class="msg-title">Flow of Events</h1>
         <div class="flow">
             <div class="day">
@@ -55,6 +56,10 @@
                 -->
             </div>
         </div>
+        <h2  style="text-align:center; font-weight: 3000;">Device Policy: </h2>
+        <h4  style="text-align:center;">All delegates are permitted to bring their laptops.</h4>
+        <h4  style="text-align:center;">Mobile phones can only be brought by external students.</h4>
+        <h4  style="text-align:center;">They must be kept switched off and not used on school premises.</h4>
         <h1 class="msg-title">Letter from the Secretary General</h1>
         <center><h2>To be out soon!</h2></center>
         <!--
