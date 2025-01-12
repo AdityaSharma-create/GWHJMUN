@@ -24,9 +24,7 @@ useHead({
                 </a>
             </div>
         </div>
-        <h1>Background Guides</h1>
-        <center><h2>Coming Soon</h2></center>
-        
+        <h1>Background Guides</h1>        
         <div class="bg">
             <div class="bg-link" v-for="item in comms.list" :class="`bg-${item.id}`">
                 <a :href="`/resources/${item.id}_bg.pdf`" v-if="item.na==false">
