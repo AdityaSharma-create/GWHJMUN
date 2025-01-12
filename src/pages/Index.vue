@@ -30,30 +30,25 @@
         <div class="flow">
             <div class="day">
                 <h1>Day 1</h1>
-                <p>To be out soon!</p>
-                <!--
                 <p>Reporting time to school: 7:45 AM</p>
-                <p>Registrations: 8:00 - 9:00 AM</p>
-                <p>Opening Ceremony: 9:00 - 10:00 AM</p>
-                <p>Juice Break: 10:00 - 10:15 AM</p>
-                <p>Committee Session 1: 10:15 AM - 12:20 PM</p>
-                <p>Lunch: 12:20 - 12:55 PM</p>
-                <p>Committee Session 2: 12:55 PM - 2:00 PM</p>
-                <p>Disperal: 2:05 PM</p>
-                -->
+                <p>Registrations: 7:45 - 8:30 AM</p>
+                <p>Opening Ceremony: 8:45 - 9:15 AM</p>
+                <p>Juice Break: 9:15 - 9:30 AM</p>
+                <p>Committee Session 1: 9:30 AM - 12:20 PM</p>
+                <p>Lunch: 12:20 - 1:00 PM</p>
+                <p>Committee Session 2: 1:00 PM - 2:00 PM</p>
+                <p>Disperal: 2:00PM</p>
             </div>
             <div class="day">
                 <h1>Day 2</h1>
-                <p>To be out soon!</p>
-                <!--
                 <p>Reporting time to school (at the respective committee rooms): 7:45 AM</p>
                 <p>Committee Session 3: 8:00 - 10:00 AM</p>
-                <p>Juice Break: 10:00 - 10:15 AM</p>
-                <p>Committee Session 4: 10:15 AM - 12:20 PM</p>
-                <p>Lunch: 12:20 - 12:55 PM</p>
+                <p>Break: 10:00 - 10:15 AM</p>
+                <p>Committee Session 4: 10:15 AM - 12:15 PM</p>
+                <p>Lunch: 12:15 - 12:50 PM</p>
                 <p>Closing Ceremony: 1:00 - 2:00 PM</p>
-                <p>Dispersal: 2:05 PM</p>
-                -->
+                <p>Dispersal: 2:00 PM</p>
+                
             </div>
         </div>
         <h2  style="text-align:center; font-weight: 3000;">Device Policy: </h2>
