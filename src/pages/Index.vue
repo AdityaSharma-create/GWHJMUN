@@ -56,16 +56,26 @@
         <h4  style="text-align:center;">Mobile phones can only be brought by external students.</h4>
         <h4  style="text-align:center;">They must be kept switched off and not used on school premises.</h4>
         <h1 class="msg-title">Letter from the Secretary General</h1>
-        <center><h2>To be out soon!</h2></center>
-        <!--
+        
         <div class="msg">
             <div class="info">
-                <img src="/assets/eb_pics/UNSC/Harihar Prasad.png">
-                <h2 class="name">Harihar Prasad</h2>
+                <img src="/assets/eb_pics/DISEC/Amisha Sharma.jpg">
+                <h2 class="name">Amisha Sharma</h2>
                 <h3 class="tl">Secretary General</h3>
             </div>
-            <div class="desc">{{`Chaos. Turmoil. Conflict.\n\nIn a world that’s plagued by a myriad of issues, from poverty to civil wars - there lies but one hope for a brighter future. All of you. In each and every one of you lies an ember of infinite potential, a spark that if treated right has the potential to turn into a fire that paints the very sky a shade of glorious crimson.\n\nWe’ve opened the doors for you - doors to a world of debate, research and intense negotiation in pursuit of a better world, a world where needless suffering is a thing of the past, and harmony and peace prevails. However, it is paramount that you recognise that this opportunity depends upon the effort that you put in. The magnitude of change is directly proportional to the dedication and passion with which you approach the challenge before you.\n\nIn the words of Ludwig Van Beethoven, "To play a wrong note is insignificant; to play without passion is inexcusable." It is not your experience that matters, but the passion with which you approach this arena of debate. Fear is a constant. To face that fear and come out on top is what truly separates the extraordinary from the ordinary.\n\nIt is my hope that Greenwood High Junior Model United Nations 2024 ignites within you the same passion for pushing forth global progress and debate that my first MUN did in me. Times are changing, and in but a few short years, we will be the ones looking up to you instead of the other way around. This world needs change - and I have faith that you will be the one to spearhead that change.\n\nThis is but the first step for you on the path to infinity.\n\nResearch. Debate. Push your limits.\n\nThen go out there and change the world.\n\nYours sincerely,\nHarihar Prasad\nSecretary General`}}</div>
+            <div class="desc">{{`Dear Delegates, 
+
+It’s a true honor to address all of you as the Secretary General of the GWHJMUN 2025. It’s a joy to see so many of you attending your first ever Model UN conference, on the brink of embarking on this journey of becoming more aware, responsible global citizens. 
+
+When you enter your committee sessions, delegates, do not think of how little you know, and try to put your overwhelming desire for the Best Delegate award out of your mind for a moment. As you enter, simply cherish this wonderful opportunity you’ve been given: you get to start your Model UN career. Over the course of the 20 MUNs I’ve been to personally, I’ve seen myself transform from a tiny 14 year old, shaking as she entered the UNCSW, barely able to give a single GSL, into standing here in front of you today. I’m confident that each and every one of you is going to find bravery and courage you never thought you had, going in front of your committees to deliver amazing speeches. Even if you don’t think you have that bravery, go give the speech anyway. I promise, you’ll find that you had it all along. The beauty of this being your first time is that there is nothing to compare yourself to: every single action you take is a victory. Make a friendship with a delegate from another school. Help write a clause of the resolution. Ask a POI even if you’re not quite sure you’re phrasing it right. Do not let the fear of failing hold you back - nobody cares if you fall today, as long as you get back up tomorrow. 
+
+As the first ever inter school JMUN Greenwood High has hosted, I would like to warmly welcome every external delegate in the room. I applaud you all, for stepping out of your comfort zone, and putting in the effort to be here today. A final word of advice for you all: the loudest voice in the room is very rarely the smartest, or the most qualified. Do not be a power delegate, and don’t let the fact that you’re currently shouting over everyone else trick you into thinking you’re a good leader. A good leader doesn’t have to be smart, or qualified, and they certainly don’t need to be loud. They need to be kind, above anything. They need to involve other people in the discussions, create opportunities for collaboration, and have a singular goal: to help the world become a better place. So as you go off into the world of MUN, though sometimes you will feel like you have to be cutthroat and clever, and sometimes yes, you will have to be, I will leave you with a quote most of you are probably familiar with already: if you can be anything in the world, be kind. 
+
+All the very best, 
+Amisha Sharma
+`}}</div>
         </div>
+        <!--
         <h1 class="msg-title">Letter from the Director General</h1>
         <div class="msg">
           <div class="info">
